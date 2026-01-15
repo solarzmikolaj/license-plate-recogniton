@@ -1,0 +1,14 @@
+torch==2.9.0
+torchvision==0.24.0
+ultralytics==8.3.221
+transformers==4.46.3
+accelerate==1.11.0
+timm==1.0.21
+
+numpy==2.2.6
+pillow==11.3.0
+opencv-python==4.12.0.88
+
+gradio==5.49.1
+
+pylint==4.0.4
