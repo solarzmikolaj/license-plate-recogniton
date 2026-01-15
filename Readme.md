@@ -135,4 +135,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<p align="center">Created by <a href="https://github.com/solarzmikolaj">Mikolaj Solarz</a></p>
+<p align="center">Created by <a href="https://github.com/solarzmikolaj">Mikołaj Solarz</a>, <a href="https://github.com/cpetryka">Cezary Petryka</a> and <a href="https://github.com/KubaKarwow">Kuba Karwowski</a></p>
