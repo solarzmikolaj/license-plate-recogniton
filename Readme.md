@@ -30,7 +30,7 @@ Follow these steps to set up the project locally.
 
 ### Prerequisites
 
-Make sure you have Python 3.8+ installed on your system. You can download it [here](https://www.python.org/downloads/).
+Make sure you have Python 3.11+ installed on your system. You can download it [here](https://www.python.org/downloads/).
 
 **Note:** For optimal performance, it's recommended to have:
 - CUDA-compatible GPU (for faster inference)
