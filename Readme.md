@@ -100,12 +100,6 @@ docker build -t license-plate-recognition .
 docker run -p 7860:7860 license-plate-recognition
 ```
 
-## 📸 Screenshots
-
-| Original Image | Detected Plate | Recognized Text |
-|:--------------:|:--------------:|:---------------:|
-| <img src="https://via.placeholder.com/300x200?text=Car+Image" width="300"> | <img src="https://via.placeholder.com/300x100?text=Plate" width="300"> | **WA 12345** |
-
 ## 📂 Project Structure
 
 ```
